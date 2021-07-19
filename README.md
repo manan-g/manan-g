@@ -3,14 +3,14 @@
 I'm Manan!
 CS Undergrad '22 at TIET
 
-###💻 I’m familiar with
+### 💻I’m familiar with
 
     C++ | JavaScript | Node | MongoDB | React
 
-###🌱 I’m currently learning
+### 🌱I’m currently learning
     Algorithms | React
 
-###🔭 I’m currently working on
+### 🔭I’m currently working on
 
 - 📝[my to-do list](http://merntodo12.herokuapp.com)
 Inspired by Momentum and Microsoft Todo App
