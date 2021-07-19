@@ -13,8 +13,8 @@ CS Undergrad '22 at TIET
 ### 🔭I’m currently working on
 
 - 📝[my to-do list](http://merntodo12.herokuapp.com)
-...Inspired by Momentum and Microsoft Todo App
-...Built on MERN Stack
+   Inspired by Momentum and Microsoft Todo App
+   Built on MERN Stack
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=manan-g&count_private=true&show_icons=true&hide=contribs)
 
