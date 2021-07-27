@@ -12,7 +12,7 @@ CS Undergrad '22 at TIET
 
 ###🔭 I’m currently working on
 
-- 📝[my to-do list](http://merntodo12.herokuapp.com)
+- 📝[mern to-do list](https://miniature-happiness.herokuapp.com)
 Inspired by Momentum and Microsoft Todo App
 Built on MERN Stack
 
