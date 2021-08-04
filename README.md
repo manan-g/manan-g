@@ -15,6 +15,9 @@ CS Undergrad '22 at TIET
 - 📝[mern to-do list](http://miniature-happiness.herokuapp.com)
   - Inspired by Momentum and Microsoft Todo App
   - Built on MERN Stack
+- 📰[Dencenteralized News Platform](https://sharp-euler-2914e3.netlify.app)
+  - Built with Solidity and React
+  - Deployed on Ropsten test network and netlify
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=manan-g&count_private=true&show_icons=true&hide=contribs)
 
